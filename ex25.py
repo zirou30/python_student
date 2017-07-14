@@ -1,4 +1,3 @@
 nomes = ['Rafaela', 'Maria', 'Renata', 'Aline', 'Gabriela']
-nomes.sort(reverse=True)
+nomes.reverse()
 print(nomes)
-print(nomes[::-1])

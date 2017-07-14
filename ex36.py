@@ -1,6 +1,11 @@
-planetas = ['terra', 'marte', 'saturno']
+# lista = ['rodrigo','rafael','douglas']
+# for x in lista:
+#     print('muito bem:'+x.capitalize())
+#     print('mal posso esperar pela proxima apresentação:'.title()+x.capitalize()+'\n')
+#     print('obrigado a todos pelo show')
 
-for x in planetas[0:1]:
-    print('Onde a raça humana vive ' + planetas[0])
-    print('O planeta mais quente do sistema solar ' + planetas[1])
-    print('Os anéis de ' + planetas[2] + ' possuem diamantes')
+lista = ['renata', 'rafaela', 'gabriela']
+for x in lista:
+    print('a banda slayer é muito boa:' + x.capitalize())
+    print('espero que logo eles façam um show no brasil:'.title()+ x.capitalize())
+    print('e assim esperamos'.capitalize())

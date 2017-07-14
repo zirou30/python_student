@@ -1,2 +1,2 @@
-a = 'string'
-print(a[0])
+lista = ['strings', 'Python', 'pentest']
+print(lista[0].capitalize())
