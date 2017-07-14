@@ -1,0 +1,1 @@
+print(['seila', 'qualquercoisa', 'venus', 'terra'])

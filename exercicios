@@ -1,0 +1,148 @@
+1Crie um script que contenha 2 variáveis com strings junte as 
+duas variáveis usando concatenação, e exiba o resultado na tela.
+
+2No modo interativo armazene uma string 'exemplo  ' em uma 
+variável com espaço em branco, depois exiba o resultado na tela 
+eliminando o espaço em branco.
+
+3Crie um script que contenha uma frase em uma variável sobre 
+aspas simples, e faça ocorrer o error de invalid syntax:
+faça a mesma coisa com aspas duplas, e depois explique por que o 
+error acontece.
+
+4Crie um script que contenha uma variável "string" e faça a 
+primeira letra ser exebida em maiúscula, depois faça com que a 
+mesma variável, seja exibida com todas letras maiúsculas e 
+minúsculas.
+
+5faça a soma de 2 números, e multplique ele por um número do 
+seu gosto, ex: 2+3*5 em seguida faça o mesmo e use () para a 
+adição ex: (2+3)*5 o resultado de ambos vão ser diferentes 
+explique pq isso acontece .
+
+6Crie um script que tenha a idade de uma pessoa em uma 
+variável,depois faça a concatenação da idade com duas "strings"
+adicionando o valor de ambos a outra nova variável, ex: nova 
+="parabéns"+idade+"anos" vai ocorrer um error, então tente 
+resolver e explique pq isso acontece. 
+ 
+7Crie um script com uma lista depois mostre o resultado na tela .
+
+8Crie um script que mostre apenas o primeiro elemento da lista
+passando a posição e explique como funciona.
+
+9Crie um script que mostre um elemento da lista "string" que começe com a primeira letra maiúscula na tela.
+
+10 Mostre o ultimo elemento da lista, passando a posição de forma negativa e explique .
+
+11: Crie um script que substitua o primeiro item de sua lista, mostre os resultados
+na tela antes, e depois de alterar a lista.
+
+12: Crie um script que adicione um elemento ao final de sua lista
+
+13: Crie uma lista vazia e adicione elementos a ela.
+
+14: Criei um script que adicione um valor a lista na posição que vc deseja.
+
+15: Crie um script que remova um elemento na sua lista, na posição que vc deseja.
+
+16: Crie um script que remova o ultimo elemento da lista de forma que vc ainda
+possa usar o elemento removido.  explique  o método .
+
+17: Crie um script que  remova o ultimo elemento da lista com método pop(),
+armazene em uma segunda variável, e faça a concatenação dele com uma frase
+“string” que comece com a primeira letra maiúscula .
+
+18: Faça a mesma coisa do desafio 17: só que passando a posição que vc deseja.
+
+19: explique Quando usar o del  e quando usar o pop() ?
+
+20: Crie um script com uma lista depois armazene um elemento da lista,
+em uma variável ,remova o elemento da lista, com o método  .remove()
+faça a concatenação usando o segundo valor da variável, com uma frase ‘string’
+observe que o remove apenas elimina a primeira ocorrência explique pq isso acontece .
+
+
+21:Desafio extra:  faça um programa que tenha 3 pessoas em uma mesa.
+Elas vão estar em sua lista, então a ultima pessoa da lista não pagou a conta. 
+Vc vai fazer uma mensagem que fale que  ela não pagou a conta , então
+fale que vai expulsar ela.
+Em seguida vc vai substituir a pessoa que não pagou ,
+e vai adicionar outra pessoa a mesa .
+Depois faça uma mensagem ao qual , pergunte a ela, se ela quer se juntar a mesa .
+E ela vai responder que sim .
+Depois , faça uma mensagem que envolva mais 1 pessoa da sua lista . 
+Faça que seu programa fique bem intuitivo e com funções que
+foram estudadas ate agora .
+
+22:Crie um script que que altere a ordem da lista , para que os elementos
+fiquem de forma alfabética .
+
+23:Crie um script que altere a ordem da lista, de forma alfabética inversa,
+com o parâmetro True.
+
+24:Crie um script que altere a ordem da lista de forma alfabética,
+mais que não altere o valor real
+
+25:Crie um script que inverte a ordem da lista, mais que vc possa reverter
+para a forma anterior.
+
+26:Crie um script que mostre o comprimento de sua lista, com o número
+de elementos contidos nela.
+
+27:Crie um script que mostre o comprimento de um elemento de sua lista,
+quantos “caracteres” ele possui
+
+28:Crie um script que tente acessar uma posição em sua lista, maior que os
+elementos que nela possui, vai ocorrer um erro, explique pq isso acontece.
+
+29:Desafio extra: Crie um programa que tenha: (uma lista de carros, um comprador,
+e um vendedor) o vendedor vai falar: seja bem vindo.
+O comprador vai perguntar quantos carros tem na concessionária, use o len() para isso,
+em seguida, o comprador faz outra pergunta.
+Quais são os carros?
+O vendedor vai Responder: quais são ,  passe a posição de cada carro,
+que seja exibida todos com letras maiúsculas .
+O comprador vai gostar de um carro , então faça uma frase, que fale qual carro,
+ele gostou passando a posição.
+Por último ele pergunta o preço , o vendedor responde: , e ele dar risada e
+fala que está barato
+
+30:Crie um script que mostre os elementos de sua lista na tela,
+usando o loop for e explique .
+
+31:Crie um script que mostre uma mensagem “string”, para cada elemento da
+sua lista, usando o loop for, explique.
+
+32:Crie um script que mostre uma msg para cada pessoa na sua lista,
+falando algo para elas, em seguida crie outra msg de sua preferência
+tb fazendo referência as pessoas, tudo isso deve funcionar dentro do seu loop for.
+
+33:Crie um script com loop for, onde ocorra o error: expected an indented block,
+esse e um erro de indentação , explique  por que isso acontece.
+
+34:Crie um script com uma lista , exiba 2 msgs na tela, ambas vão ter interação
+com o loop for,  a segunda msg  estará fora do bloco, e so vai ser executada ao
+final do loop, apenas o ultimo elemento da lista aparecerá na 2msg,
+explique por que isso acontece.
+
+35:Crie um script com uma variável ‘string’, onde ocorra o error:
+unexpected indent, e uma indentação inesperada , explique sobre o error.
+
+36:Crie um script que tenha uma lista, faça 3 msgs,
+as 2 primeiras vão ter interação com a lista no loop for,
+a 2 msg , vai ter uma quebra de linha no final \n ,
+a 3 msg  vai ser uma qualquer dentro do loop, vai acontecer uma desordem nas msgs,
+tente arrumar e explique, oque aconteceu.
+
+37:Explique o Colon , quando devo usar ?
+
+38:Desafio extra: Crie um script que tenha uma lista com pelo menos 3 animais,
+use o loop for com uma declaração para eles , no final do programa faça uma
+msg declarando oque esses animais tem em comum .
+
+39:Crie um loop for com a função range() com números de 1 a 5,
+a saída são apenas números de 1 a 4, explique por que isso acontece.
+
+40:Crie um script com range() quem mostre a saída com números de 1 a 5 
+em forma de lista explique.
